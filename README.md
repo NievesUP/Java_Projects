@@ -1,6 +1,6 @@
 # Proyecto Java para el Ciclo Formativo de Multiplataforma
 
-¡Bienvenido al repositorio "java_projects"! Este repositorio se ha creado para almacenar y compartir todas las prácticas realizadas en el Ciclo Formativo de Multiplataforma, especialmente aquellas relacionadas con Java.
+¡Bienvenido al repositorio "java_projects"! Este repositorio se ha creado para almacenar y compartir todas las prácticas realizadas en el Ciclo Formativo de Multiplataforma del IES Trasierra, especialmente aquellas relacionadas con Java.
 
 ## Contenido
 
