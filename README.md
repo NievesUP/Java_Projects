@@ -40,6 +40,3 @@ Si eres estudiante o profesor del ciclo y deseas contribuir a este repositorio, 
 Si tienes alguna pregunta o necesitas ayuda, no dudes en abrir un problema (issue) en el repositorio. También puedes consultar recursos adicionales, como tutoriales y documentación relacionada con Java y el Ciclo Formativo de Multiplataforma.
 
 ¡Esperamos que este repositorio sea una fuente valiosa de conocimiento y colaboración para la comunidad!
-
----
-Nota: Este README es solo un ejemplo. Asegúrate de personalizarlo según las necesidades y reglas específicas de tu curso y tus preferencias.
